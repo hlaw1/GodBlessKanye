@@ -1,9 +1,9 @@
-name: "my-website"
+name: "Reality is melting"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "It's all unwinding"
   left:
-    - text: "Home"
+    - text: "What's even happening right now"
       href: index.html
-    - text: "About"
+    - text: "I don't understand"
       href: about.html
